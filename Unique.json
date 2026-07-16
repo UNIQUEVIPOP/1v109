@@ -1,5 +1,5 @@
 {
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message": "App is temporarily unavailable.\n available at 9 am",
     "current_version_code": 4,
     "latest_version": "BGMI 4.5.0",

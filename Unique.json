@@ -1,7 +1,7 @@
 {
-    "maintenance_mode": false,
+    "maintenance_mode": true,
     "maintenance_message": "App is temporarily unavailable.\n available at 9 am",
-    "current_version_code": 2,
+    "current_version_code": 3,
     "latest_version": "BGMI 4.5.0",
     "message": "🔥 NEW UPDATE! 🔥\n\n• Fix Termi Ban Issue\n• Fix LagCrash\n• Anti-Ban Updated",
     "apk_url": "https://github.com/THUNDEROPX/thunderop/releases/download/THUNDER/thunder_mod4.5.apk",

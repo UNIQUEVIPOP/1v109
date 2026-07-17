@@ -1,5 +1,5 @@
 {
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message": "App is temporarily unavailable.\n Contact To Owner :- @GB_SELLER",
     "current_version_code": 3,
     "latest_version": "BGMI 4.5.0",
